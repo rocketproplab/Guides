@@ -4,6 +4,7 @@
 [Acronyms](acronyms.md) <br>
 [Sensors](sensors.md) <br>
 [Heat Transfer](Heat_Transfer.md) <br>
+[Club Registration](clubRegistration.md) <br>
 
 ## Jupyter Notebooks
 #### [Sensors](Sensors)

@@ -28,3 +28,4 @@ Important points from the presentation, as well as links, are summarized below.
 Well, you're here, so you must know about RPL's [Guides](https://github.com/rocketproplab). These are tutorials are continuously updated. They will cover a variety of topics relevant to the engineering and projects done in the Rocket Propulsion Laboratory.
 
 ### Tutorials and Guides
+Checkout the index for an _organized_ list of the guides and jupyter notebook tutorials.

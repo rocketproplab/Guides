@@ -14,5 +14,5 @@
  * [Compressor Analysis](jupyter_notebooks/Jet_Engine/CompressorAnalysis.ipynb)<br>
 
 #### [Heat Transfer](HeatTransfer)
- * [Conduction](HeatTransfer/Conduction.ipynb)<br>
- * [Convection](HeatTransfer/Convection.ipynb)<br>
+ * [Conduction](jupyter_notebooks/HeatTransfer/Conduction.ipynb)<br>
+ * [Convection](jupyter_notebooks/HeatTransfer/Convection.ipynb)<br>

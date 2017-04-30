@@ -171,7 +171,7 @@ Variables
     int x;
     int y;
 
-*   Variable names should be lowercase, with word separated by underscores,
+*   Variable names should be lowercase, with words separated by underscores,
     and should not have leading or trailing underscores
     +   Constants should be in ALL CAPS
 

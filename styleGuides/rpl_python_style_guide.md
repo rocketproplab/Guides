@@ -146,6 +146,23 @@ Variables
     Bad:
     fooConstant = 5
 
+Strings
+-------
+
+*   When using string literals, wrap strings in double quotes
+    +   If you want a quotation mark to appear in the string, use the single
+        quote 
+    +   Use three double quote characters in a row to create a triple quoted string
+    +   More information on strings: 
+        [Strings in Python](https://docs.python.org/3/tutorial/introduction.html#strings)
+
+<!-- -->
+
+    Good:
+    print("foobar")
+
+    Bad:
+    print('foobar')
 
 Miscellaneous
 ------------

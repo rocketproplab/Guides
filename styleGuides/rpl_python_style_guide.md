@@ -85,6 +85,36 @@ Headers and Comments
     Expected output: true
     """
 
+Namespaces
+----------
+
+*To learn more about namespaces in Python, visit 
+ [Namespace/Class Tutorial](https://docs.python.org/3/tutorial/classes.html)
+
+*   When declaring and assigning variables in functions, avoid using the same
+    name as another variable in the same scope. 
+    
+<!-- -->
+    Good:
+    scopes():
+        def do_bar():
+	    bar = "bar"
+
+        foo = "foo"
+	do_bar()
+	print(foo)
+
+    Bad:
+    scopes():
+        def do_bar():
+	    foo = "bar"
+	
+	foo = "foo"
+	do_bar()
+	print(foo)
+
+*   Do not declare global-scope variables
+
 Organization and Whitespace
 ---------------------------
 

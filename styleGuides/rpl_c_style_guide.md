@@ -53,18 +53,18 @@ Headers and Comments
     Good: 
     //If the test succeeds, print a notification
     if(success){
-        printf("Yay");
+      printf("Yay");
     }  
 
     Bad:
     if(success){
-        printf("Yay");
+      printf("Yay");
     }
           
     Bad:
     //if success evaluates to true, print "Yay" to the terminal
     if(success){
-        printf("Yay");
+      printf("Yay");
     }
   
 Preprocessor Directives
@@ -92,7 +92,7 @@ Preprocessor Directives
 Organization, Whitespace, and Indentation
 -----------------------------------------
 
-*   Nested blocks of code should be indented by four spaces per level of
+*   Nested blocks of code should be indented by two spaces per level of
     nesting
     +   This means that your header, preprocessor directives, and outer 
         functions should be left-justified, and each block of code inside
@@ -103,11 +103,12 @@ Organization, Whitespace, and Indentation
     #include <stdio.h>
 
     main(){      
-        int bar;
-        bar = 10;
-        if(bar == 100){
-            printf("Foo");
-        }
+      int bar;
+      bar = 10;
+      if(bar == 100){          
+        printf("Foo");
+      }
+
     }
 
     Bad: 
@@ -133,7 +134,7 @@ Organization, Whitespace, and Indentation
 
     Good:
     if(1){
-         //something
+       //something
     }
 
     Bad:

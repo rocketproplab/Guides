@@ -18,4 +18,7 @@ Apply semi-stochastic operations to the selected population to create a new popu
 Repeat steps 1-3 until the fitness of an individual passes the termination test.
 
 ### Step 5: Completion
-Termination yields a single individual that is _an_ optimal solution. This method is nondeterministic, so multiple optimal solutions are possible. Perhaps add option to throw "nonstochastic" flag to the program to ensure the program converges on the same solution. 
+Termination yields a single individual that is _an_ optimal solution. This method is nondeterministic, so multiple optimal solutions are possible. Perhaps add option to throw "nonstochastic" flag to the program to ensure the program converges on the same solution.
+
+## Challenges
+Defining fitness functions requires detailed knowledge of the system and how it responds to wiggling different parameters.

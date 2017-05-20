@@ -8,6 +8,6 @@ Using the image below,
 
 **2.** Use **&#916;T** = ??? (TBD) and draw a line through where the first line passes the center index to the right index.
 
-**3.** Create a line at **E** = 30x10^6 through right index to **S** (Thermal Stress).
+**3.** Create a line at **E** = 30x10^6 _PSI_ through right index to **S** (Thermal Stress).
 
 ![alt text](https://github.com/rocketproplab/Guides/blob/master/markdownGuides/Variables.jpg "Variables")

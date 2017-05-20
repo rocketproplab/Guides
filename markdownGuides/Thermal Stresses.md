@@ -10,4 +10,6 @@ Using the image below,
 
 **3.** Create a line at **E** = 30x10^6 _PSI_ through right index to **S** (Thermal Stress).
 
+From this, we get a **S**= 4000 _PSI_.
+
 ![alt text](https://github.com/rocketproplab/Guides/blob/master/markdownGuides/Variables.jpg "Variables")

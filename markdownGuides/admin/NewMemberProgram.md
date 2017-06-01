@@ -4,4 +4,4 @@ New Members will participate in a year-long program to introduce them to basics 
 
 ## Leadership
 
-Two new member leads will be assigned to guide the new members through each of the projects. Each discipline's program 
+Two new member leads will be assigned to guide the new members through each of the projects. 

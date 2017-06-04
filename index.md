@@ -4,6 +4,7 @@
 
 1. [Experimental Techniques and Sensors](\Guides\experimentalTechniquesAndSensors\index.md)
 1. [Python](\Guides\python\index.md)
+
   - [Intro to Python](\Guides\python\intro.md)
   - [Jupyter Notebooks](\Guides\python\jupyternotebooks.md)
   - [Importing Data with Pandas](\Guides\python\excelToPandas.ipynb)
